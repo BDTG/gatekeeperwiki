@@ -15,7 +15,7 @@ enableToc: false
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | Health | 200 |
+> | Health | 300 |
 > | Damage | 52 |
 > | Regeneration | 2 |
 > | Movement Speed | 11 |
